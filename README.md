@@ -1,65 +1,86 @@
 # Static Page View Counter
 
-A simple way to implement view counter in your website.
+A simple way to implement view/visits counter on your website.
 
-## test page
+#### Example
 
-[https://abdheshnayak.github.io/static-website-views-counter/](https://abdheshnayak.github.io/static-website-views-counter/)
-
-#### ScreenShots
-
-![Image of the Main Screen](screenshots/1.png)
+![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage)
 
 
 ## Implementation
 
 #### Decide a page id which will be unique.
 
-your page id must not contains any space and please use a unique keyword.
+your page id must not contain any space and please use a unique keyword.
 
-#### implement int your html code.
+and your every individual page needs a new unique id.
 
-you just need to add a iframe tag in your html code where you want to show your views. which contains the following attributes with value.
-In source attribute replase your id.
-
-```
-<iframe  
-	src="https://kamla.com.np/viewcount/?ID=[your_id_of_page]" 
-	
-	scrolling="no" style="display:inline-block;border:none;
-	width:5em;height:2em;">
-</iframe>
+so I suggest to use your id like this:
+if your domain is kamla.com.np and page is home
 
 ```
+kamla_com_np_home
+or
+kamla-com-np-home
+or
+kamlacomnphome
+```
+or you can use a nike name like
+```
+ak-kamla_com_np_home
+```
 
-## Example
+# Implementation
+### In HTML
+
+you just need to implement an IMG tag in your HTML source code. and put the value of src attribute as given below
+
+```
+<img
+
+src="https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage"
+
+alt="testpage">
+```
+where you have to just change your ID
+like
+```
+ID=kamla-com-np
+```
+so the link will be
+```
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=kamla-com-np
+```
+
+
+#### Example
 
 ```
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Test Page View Counter</title>
+    <title>Views Counter Test Page</title>
   </head>
   <body>
-    <span>Total Views<span/>
-    <iframe  
-    	src="https://kamla.com.np/viewcount/?ID=testpage1"
-    	scrolling="no" style="display:inline-block;border:none;
-    	width:5em;height:2em; position: absolute; top:0;">
-    </iframe>
+    <h1>Views Counter Test Page</h1>
+    <img src="https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage" alt="testpage">
   </body>
 </html>
 ```
-#### Output
-[https://abdheshnayak.github.io/static-website-views-counter/](https://abdheshnayak.github.io/static-website-views-counter/)
+
+
+### In README.md
+```
+![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage)
+```
 
 
 
 ## Built With
 
-* [PHP]
-* [mysql]
+* **PHP**
+* **MySql**
 
 ## LICENSE
 
