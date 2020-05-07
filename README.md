@@ -35,8 +35,28 @@ In source attribute replase your id.
 	width:5em;height:2em;">
 </iframe>
 
+```
+
+## Example
 
 ```
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Test Page View Counter</title>
+  </head>
+  <body>
+    <span>Total Views<span/>
+    <iframe  
+    	src="https://kamla.com.np/viewcount/?ID=testpage1"
+    	scrolling="no" style="display:inline-block;border:none;
+    	width:5em;height:2em; position: absolute; top:0;">
+    </iframe>
+  </body>
+</html>
+```
+
 
 ## LICENSE
 
