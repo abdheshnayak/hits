@@ -11,18 +11,13 @@ A simple way to implement view counter in your website.
 ![Image of the Main Screen](screenshots/1.png)
 
 
-## Built With
-
-* [PHP]
-* [mysql]
-
 ## Implementation
 
-### Decide a page id which will be unique.
+#### Decide a page id which will be unique.
 
 your page id must not contains any space and please use a unique keyword.
 
-### implement int your html code.
+#### implement int your html code.
 
 you just need to add a iframe tag in your html code where you want to show your views. which contains the following attributes with value.
 In source attribute replase your id.
@@ -59,6 +54,12 @@ In source attribute replase your id.
 #### Output
 [https://abdheshnayak.github.io/static-website-views-counter/](https://abdheshnayak.github.io/static-website-views-counter/)
 
+
+
+## Built With
+
+* [PHP]
+* [mysql]
 
 ## LICENSE
 
