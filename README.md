@@ -56,6 +56,8 @@ In source attribute replase your id.
   </body>
 </html>
 ```
+#### Output
+[https://abdheshnayak.github.io/static-website-views-counter/](https://abdheshnayak.github.io/static-website-views-counter/)
 
 
 ## LICENSE
