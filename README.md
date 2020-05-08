@@ -77,8 +77,8 @@ https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?I
 
 
 ### Note
-You can use IDV for see only views without updating the badge.
-- example:
+You can use IDV for see only views without updating views count.
+##### example:
 ```
 https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage
 ```
