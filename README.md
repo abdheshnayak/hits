@@ -78,9 +78,9 @@ https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?I
 
 ### Note
 You can use IDV for see only views without updating the badge.
-example:
+- example:
 ```
-![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage)
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage
 ```
 
 
