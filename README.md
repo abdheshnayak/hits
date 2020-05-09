@@ -1,8 +1,8 @@
 
 
 ![post date](https://img.shields.io/badge/Posted-8%20May%202020-lightgrey)
-# Static Page View Counter
-A simple way to implement view/visits counter on your website.
+# Static Page Views Counter
+A simple way to implement views/visits counter on your website.
 
 **Example**
 
