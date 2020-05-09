@@ -5,6 +5,7 @@
 A simple way to implement view/visits counter on your website.
 
 **Example**
+
 ![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage)
 
 
@@ -94,6 +95,7 @@ like,
 https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet
 ```
 **Result**
+
 ![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet)
 
 ## Lable Color
@@ -107,6 +109,7 @@ like,
 https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
 ```
 **Result**
+
 ![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
 
 ## Built With
