@@ -97,7 +97,7 @@ above_link%26%26COLOR=colorname
 
 like,
 
-https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage%26%26COLOR=blueviolet
 ```
 Result
 
@@ -111,7 +111,7 @@ above_link%26%26CLABEL=colorname
 
 like,
 
-https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?ID=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
 ```
 Result
 
