@@ -116,7 +116,7 @@ https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?I
 
 ## LICENSE
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE]([https://github.com/abdheshnayak/static-website-views-counter/blob/master/LICENSE](https://github.com/abdheshnayak/static-website-views-counter/blob/master/LICENSE)) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/abdheshnayak/static-website-views-counter/blob/master/LICENSE)) file for details
 
 ## Authors
 >**Abdhesh Nayak**
