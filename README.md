@@ -83,7 +83,39 @@ You can use IDV for see only views without updating views count.
 https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage
 ```
 
+## Use Diffrent Color
+You can select your of badge also for doing that you have do only
+add one attrubute color in link.
 
+<p><span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="brightgreen" src="https://img.shields.io/badge/-brightgreen-brightgreen"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="green" src="https://img.shields.io/badge/-green-green"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="yellowgreen" src="https://img.shields.io/badge/-yellowgreen-yellowgreen"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="yellow" src="https://img.shields.io/badge/-yellow-yellow"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="orange" src="https://img.shields.io/badge/-orange-orange"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="red" src="https://img.shields.io/badge/-red-red"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="blue" src="https://img.shields.io/badge/-blue-blue"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="lightgrey" src="https://img.shields.io/badge/-lightgrey-lightgrey"></span></span><br><span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="success" src="https://img.shields.io/badge/-success-success"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="important" src="https://img.shields.io/badge/-important-important"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="critical" src="https://img.shields.io/badge/-critical-critical"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="informational" src="https://img.shields.io/badge/-informational-informational"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="inactive" src="https://img.shields.io/badge/-inactive-inactive"></span></span><br><span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="blueviolet" src="https://img.shields.io/badge/-blueviolet-blueviolet"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="ff69b4" src="https://img.shields.io/badge/-ff69b4-ff69b4"></span><span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gEmBHT"><img alt="9cf" src="https://img.shields.io/badge/-9cf-9cf"></span></span></p>
+
+
+select a color from above and then use it like this.
+
+```
+above_link%26%26COLOR=colorname
+
+like,
+
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet
+```
+Result
+
+![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet)
+
+## Lable Color
+
+You can also change lable color by adding %26%26CLABEL=colorname
+```
+above_link%26%26CLABEL=colorname
+
+like,
+
+https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
+```
+Result
+
+![viewsCount](https://img.shields.io/endpoint?url=https://pageviewcounter.000webhostapp.com/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
 
 ## Built With
 
