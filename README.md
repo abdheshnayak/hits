@@ -4,7 +4,7 @@ A simple way to implement views/visits counter on your website.
 
 **Example**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=testpage)
+![viewsCount](https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?ID=testpage)
 
 
 ## Implementation
@@ -38,7 +38,7 @@ You just need to implement an IMG tag in your HTML source code. and put the valu
 ```
 <img
 
-src="https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=testpage"
+src="https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?ID=testpage"
 
 alt="test page">
 ```
@@ -49,7 +49,7 @@ ID=kamla-com-np
 ```
 so the link will be
 ```
-https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=kamla-com-np
+https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?ID=kamla-com-np
 ```
 
 
@@ -63,19 +63,19 @@ https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=kamla-com-np
   </head>
   <body>
     <h1>Views Counter Test Page</h1>
-    <img src="https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=testpage" alt="testpage">
+    <img src="https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?ID=testpage" alt="testpage">
   </body>
 </html>
 ```
 ### In README.md
 ```
-![viewsCount](https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?ID=testpage)
+![viewsCount](https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?ID=testpage)
 ```
 ### Showing without updating Count
 You can use IDV for see only views without updating views count.
 **example:**
 ```
-https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?IDV=testpage
+https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?IDV=testpage
 ```
 
 ## Use Different Color
@@ -90,11 +90,11 @@ above_link%26%26COLOR=colorname
 ```
 like,
 ```
-https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?IDV=testpage%26%26COLOR=blueviolet
+https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet
 ```
 **Result**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?IDV=testpage%26%26COLOR=blueviolet)
+![viewsCount](https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet)
 
 ## Lable Color
 
@@ -104,11 +104,11 @@ above_link%26%26CLABEL=colorname
 ```
 like,
 ```
-https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
+https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
 ```
 **Result**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://prgbook.cf/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
+![viewsCount](https://img.shields.io/endpoint?url=https://kamla.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
 
 ## Built With
 
@@ -125,4 +125,3 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](https:
 [![Icon](https://img.shields.io/badge/Github-lightgrey)](https://github.com/abdheshnayak) [![Icon](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/abdhesh-nayak/)
 
 **See also the list of [Contributors](https://github.com/abdheshnayak/static-website-views-counter/contributors) who participated in this project.**
-
