@@ -2,9 +2,11 @@
 
 A simple way to implement views/visits counter on your website.
 
+get api key here [https://rapidapi.com/abdheshnayak/api/counter10](https://rapidapi.com/abdheshnayak/api/counter10)
+
 **Example**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=testpage)
+![viewsCount](https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&ID=testpage)
 
 ## Implementation
 
@@ -40,7 +42,7 @@ You just need to implement an IMG tag in your HTML source code. and put the valu
 ```
 <img
 
-src="https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=testpage"
+src="https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&ID=testpage"
 
 alt="test page">
 ```
@@ -55,7 +57,7 @@ ID=kamla-com-np
 so the link will be
 
 ```
-https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=kamla-com-np
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key&&ID=kamla-com-np
 ```
 
 ### Example
@@ -69,7 +71,7 @@ https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=kamla-com
   </head>
   <body>
     <h1>Views Counter Test Page</h1>
-    <img src="https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=testpage" alt="testpage">
+    <img src="https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key&&ID=testpage" alt="testpage">
   </body>
 </html>
 ```
@@ -77,7 +79,7 @@ https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=kamla-com
 ### In README.md
 
 ```
-![viewsCount](https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?ID=testpage)
+![viewsCount](https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&ID=testpage)
 ```
 
 ### Showing without updating Count
@@ -86,7 +88,7 @@ You can use IDV for see only views without updating views count.
 **example:**
 
 ```
-https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?IDV=testpage
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&IDV=testpage
 ```
 
 ## Use Different Color
@@ -104,12 +106,12 @@ above_link%26%26COLOR=colorname
 like,
 
 ```
-https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key&&IDV=testpage%26%26COLOR=blueviolet
 ```
 
 **Result**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet)
+![viewsCount](https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&IDV=testpage%26%26COLOR=blueviolet)
 
 ## Lable Color
 
@@ -122,12 +124,12 @@ above_link%26%26CLABEL=colorname
 like,
 
 ```
-https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key&&IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green
 ```
 
 **Result**
 
-![viewsCount](https://img.shields.io/endpoint?url=https://api.anayak.com.np/vcnt/?IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
+![viewsCount](https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d&&IDV=testpage%26%26COLOR=blueviolet%26%26CLABEL=green)
 
 ## Built With
 
