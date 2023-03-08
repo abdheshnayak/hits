@@ -17,14 +17,14 @@ Your **page id** must not contain any **space** and please use a **unique** keyw
 And your every individual **page** needs a new **unique id**.
 
 So, I suggest to use your id like this:
-if your domain is **api.anayak.com.np** and page is home
+if your domain is **eample.com** and page is home
 
 ```
 example_com_home
 or
-kamla-com-np-home
+eample-com-home
 or
-kamlacomnphome
+eeamplecomhome
 ```
 
 > or you can use a nike name like,
@@ -51,13 +51,13 @@ where you have to just change your ID
 like
 
 ```
-ID=kamla-com-np
+ID=eample-com
 ```
 
 so the link will be
 
 ```
-https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key%26%26ID=kamla-com-np
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=api-key%26%26ID=eample-com
 ```
 
 ### Example
