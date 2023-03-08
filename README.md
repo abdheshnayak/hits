@@ -20,7 +20,7 @@ So, I suggest to use your id like this:
 if your domain is **api.anayak.com.np** and page is home
 
 ```
-kamla_com_np_home
+example_com_home
 or
 kamla-com-np-home
 or
@@ -30,7 +30,7 @@ kamlacomnphome
 > or you can use a nike name like,
 
 ```
-ak-kamla_com_np_home
+ak-example_com_home
 ```
 
 # Implementation
