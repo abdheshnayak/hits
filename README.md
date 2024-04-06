@@ -1,4 +1,4 @@
-# Static Page Views Counter
+# Hits Counter
 
 A simple way to implement views/visits counter on your website.
 
