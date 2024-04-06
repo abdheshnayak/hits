@@ -133,8 +133,8 @@ https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-k
 
 ## Built With
 
-- **PHP**
-- **MySql**
+- **NodeJs**
+- **MongoDb**
 
 ## LICENSE
 
